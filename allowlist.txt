@@ -23,6 +23,7 @@
 ||play.googleapis.com
 
 # Microsoft
+client.wns.windows.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 g.live.com
 officeclient.microsoft.com
