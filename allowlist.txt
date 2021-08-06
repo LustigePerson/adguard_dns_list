@@ -14,12 +14,20 @@
 ||epicgames.com
 
 # Google
+||clients2.google.com
+||clients3.google.com
+||clients4.google.com
+||clients5.google.com
+||photos.google.com
 ||fonts.gstatic.com
 ||play.googleapis.com
 
 # Microsoft
 fe3cr.delivery.mp.microsoft.com
 settings-win.data.microsoft.com
+||msftncsi.com
+||events.data.microsoft.com
+||settings-win.data.microsoft.com
 ||update.microsoft.com
 
 # Netflix
@@ -33,6 +41,7 @@ settings-win.data.microsoft.com
 # URL shortener
 ||bit.ly
 ||tinyurl.com
+||goo.gl
 
 # Twitter
 ||t.co
