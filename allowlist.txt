@@ -1,41 +1,41 @@
 # Aliexpress
-alibaba.com
-alicdn.com
-aliexpress.com
+||alibaba.com
+||alicdn.com
+||aliexpress.com
 
 # Amazon /AWS
-aax-eu.amazon.de
-amzn.to
-fls-eu.amazon.com
-identity.browserapps.amazon.de
-s3.amazonaws.com
+||aax-eu.amazon.de
+||amzn.to
+||fls-eu.amazon.com
+||identity.browserapps.amazon.de
+||s3.amazonaws.com
 
 # Epic
-epicgames.com
+||epicgames.com
 
 # Google
-fonts.gstatic.com
-play.googleapis.com
+||fonts.gstatic.com
+||play.googleapis.com
 
 # Microsoft
 fe3cr.delivery.mp.microsoft.com
 settings-win.data.microsoft.com
-update.microsoft.com
+||update.microsoft.com
 
 # Netflix
-netflix.com
-nflximg.com
+||netflix.com
+||nflximg.com
 
 # Pinterest
-pinterest.com
-pinterest.de
+||pinterest.com
+||pinterest.de
 
 # URL shortener
-bit.ly
-tinyurl.com
+||bit.ly
+||tinyurl.com
 
 # Twitter
-t.co
+||t.co
 
 # Others
-etel-tuning.eu
+||etel-tuning.eu
