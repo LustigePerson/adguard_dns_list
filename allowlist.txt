@@ -54,3 +54,4 @@ sls.update.microsoft.com.akadns.net
 
 # Others
 ||etel-tuning.eu
+events.launchdarkly.com
