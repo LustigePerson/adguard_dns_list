@@ -11,6 +11,10 @@
 ||identity.browserapps.amazon.de
 ||s3.amazonaws.com
 
+# Disqus
+c.disquscdn.com
+disqus.com
+
 # Epic
 ||epicgames.com
 
@@ -34,7 +38,6 @@ sls.update.microsoft.com.akadns.net
 ||msftncsi.com
 ||settings-win.data.microsoft.com
 ||update.microsoft.com
-
 
 # Netflix
 ||netflix.com
