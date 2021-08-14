@@ -105,3 +105,4 @@ win10.ipv6.microsoft.com
 ||etel-tuning.eu
 events.launchdarkly.com
 ||kaggle.com
+g2a.com
