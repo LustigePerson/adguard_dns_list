@@ -106,3 +106,4 @@ win10.ipv6.microsoft.com
 events.launchdarkly.com
 ||kaggle.com
 g2a.com
+kinguin.net
