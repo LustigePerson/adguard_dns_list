@@ -75,6 +75,7 @@ sqm.telemetry.microsoft.com
 ssw.live.com
 statsfe2.update.microsoft.com
 statsfe2.ws.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 t.urs.microsoft.com
 ui.skype.com
 urs.microsoft.com
