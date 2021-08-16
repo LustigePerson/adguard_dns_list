@@ -12,7 +12,7 @@
 ||s3.amazonaws.com
 
 # Disqus
-c.disquscdn.com
+||disquscdn.com
 disqus.com
 
 # Epic
