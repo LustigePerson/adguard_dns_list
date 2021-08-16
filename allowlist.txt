@@ -15,6 +15,10 @@
 ||disquscdn.com
 disqus.com
 
+# Ebay / Paypal
+b.stats.paypal.com
+pulsar.ebay.de
+
 # Epic
 ||epicgames.com
 
