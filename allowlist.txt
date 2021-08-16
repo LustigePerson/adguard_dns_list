@@ -108,3 +108,4 @@ events.launchdarkly.com
 ||kaggle.com
 g2a.com
 kinguin.net
+web.archive.org
