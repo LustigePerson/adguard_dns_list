@@ -118,3 +118,4 @@ events.launchdarkly.com
 g2a.com
 kinguin.net
 web.archive.org
+getpocket.com
