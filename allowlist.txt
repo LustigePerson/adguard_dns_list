@@ -98,13 +98,18 @@ win10.ipv6.microsoft.com
 ||pinterest.com
 ||pinterest.de
 
+# Scihub
+share.pluso.ru
+
+# Twitter
+||t.co
+
 # URL shortener
 ||bit.ly
 ||tinyurl.com
 ||goo.gl
 
-# Twitter
-||t.co
+
 
 # Others
 ||etel-tuning.eu
