@@ -13,7 +13,7 @@
 
 # Disqus
 ||disquscdn.com
-disqus.com
+||disqus.com
 
 # Ebay / Paypal
 b.stats.paypal.com
