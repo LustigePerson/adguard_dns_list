@@ -31,6 +31,9 @@ pulsar.ebay.de
 ||fonts.gstatic.com
 ||play.googleapis.com
 
+# Instagram
+instagram.com
+
 # Microsoft
 apprep.smartscreen.microsoft.com
 apps.skype.com
