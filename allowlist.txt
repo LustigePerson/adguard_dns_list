@@ -119,6 +119,7 @@ share.pluso.ru
 events.launchdarkly.com
 ||kaggle.com
 g2a.com
+imagetwist.com
 kinguin.net
 web.archive.org
 getpocket.com
