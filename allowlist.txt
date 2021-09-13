@@ -123,6 +123,6 @@ imagetwist.com
 ||kaggle.com
 kinguin.net
 mandrillapp.com
-surveymonkey.com
+||surveymonkey.com
 web.archive.org
 
