@@ -117,10 +117,12 @@ share.pluso.ru
 # Others
 ||etel-tuning.eu
 events.launchdarkly.com
-||kaggle.com
 g2a.com
+getpocket.com
 imagetwist.com
+||kaggle.com
 kinguin.net
 mandrillapp.com
+surveymonkey.com
 web.archive.org
-getpocket.com
+
