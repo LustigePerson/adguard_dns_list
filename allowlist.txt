@@ -121,5 +121,6 @@ events.launchdarkly.com
 g2a.com
 imagetwist.com
 kinguin.net
+mandrillapp.com
 web.archive.org
 getpocket.com
