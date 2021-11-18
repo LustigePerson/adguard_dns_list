@@ -106,6 +106,7 @@ share.pluso.ru
 
 # Twitter
 ||t.co
+analytics.twitter.com
 
 # URL shortener
 ||bit.ly
