@@ -30,6 +30,7 @@ pulsar.ebay.de
 ||photos.google.com
 ||fonts.gstatic.com
 ||play.googleapis.com
+||googletagmanager.com
 
 # Instagram
 instagram.com
