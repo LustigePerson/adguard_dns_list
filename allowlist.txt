@@ -86,6 +86,7 @@ statsfe2.ws.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 t.urs.microsoft.com
 ui.skype.com
+upload.fp.measure.office.com
 urs.microsoft.com
 v10.vortex-win.data.microsoft.com
 vortex-win.data.microsoft.com
