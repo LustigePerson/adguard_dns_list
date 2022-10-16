@@ -23,6 +23,7 @@ pulsar.ebay.de
 ||epicgames.com
 
 # Google
+||adservice.google.com
 ||clients2.google.com
 ||clients3.google.com
 ||clients4.google.com
