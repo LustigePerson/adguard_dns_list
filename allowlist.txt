@@ -116,6 +116,9 @@ analytics.twitter.com
 ||tinyurl.com
 ||goo.gl
 
+# Xiaomi
+api.xiaomi.com
+
 
 
 # Others
