@@ -135,3 +135,5 @@ web.archive.org
 cdp.cloud.unity3d.com
 icloud.com
 tenforums.com
+archive.is
+archive.ph
