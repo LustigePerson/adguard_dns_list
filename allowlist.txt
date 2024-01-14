@@ -24,6 +24,7 @@ pulsar.ebay.de
 
 # Google
 ||adservice.google.com
+||adservice.google.de
 ||clients2.google.com
 ||clients3.google.com
 ||clients4.google.com
