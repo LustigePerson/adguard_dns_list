@@ -109,6 +109,15 @@ win10.ipv6.microsoft.com
 # Scihub
 share.pluso.ru
 
+# Spotify premium with Denon Heos speakers
+# https://github.com/anudeepND/whitelist/issues/93
+mobile-ap.spotify.com
+apresolve.spotify.com
+upgrade.scdn.com
+market.spotify.com
+spclient.wg.spotify.com
+audio-ake.spotify.com.edgesuite.net
+
 # Twitter
 ||t.co
 analytics.twitter.com
@@ -117,6 +126,14 @@ analytics.twitter.com
 ||bit.ly
 ||tinyurl.com
 ||goo.gl
+||t.ly
+||adf.ly
+||www.adf.ly
+||bit.ly
+||ow.ly
+||www.ow.ly
+||amzn.to
+||amzn.com
 
 # Xiaomi
 api.xiaomi.com
