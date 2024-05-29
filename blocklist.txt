@@ -9,7 +9,5 @@
 ||omtrdc.net^
 ||adobedtm.com^
 ||adobejanus.com^
-||edgekey.net^
 ||adobe.net^
 ||akadns.net^
-||edgesuite.net^
