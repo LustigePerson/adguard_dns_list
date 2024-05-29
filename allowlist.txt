@@ -10,6 +10,8 @@
 ||fls-eu.amazon.de
 ||identity.browserapps.amazon.de
 ||s3.amazonaws.com
+||amazon.de
+||amazon.com
 
 # Disqus
 ||disquscdn.com
