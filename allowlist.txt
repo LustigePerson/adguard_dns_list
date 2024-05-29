@@ -106,6 +106,9 @@ win10.ipv6.microsoft.com
 ||pinterest.com
 ||pinterest.de
 
+# Reddit
+@@||reddit.com^
+
 # Scihub
 share.pluso.ru
 
