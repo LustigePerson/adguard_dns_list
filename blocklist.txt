@@ -10,4 +10,3 @@
 ||adobedtm.com^
 ||adobejanus.com^
 ||adobe.net^
-||akadns.net^
