@@ -1,15 +1,3 @@
-||adobe.io^
-||adobe.com^
-||nr-data.net^
-||opsource.net^
-||verisign.net^
-||fastly.net^
-||licensingstack.com^
-||demdex.net^
-||omtrdc.net^
-||adobedtm.com^
-||adobejanus.com^
-||adobe.net^
 ||snu.lge.com^
 ||su.lge.com^
 ||su-ssl.lge.com^
