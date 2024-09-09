@@ -40,6 +40,9 @@ pulsar.ebay.de
 # Instagram
 instagram.com
 
+#MagentaCloud
+||tags-eu.tiqcdn.com
+
 # Microsoft
 apprep.smartscreen.microsoft.com
 apps.skype.com
